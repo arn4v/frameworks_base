@@ -19,5 +19,8 @@
 
    <!-- Restart UI -->
    <string name="quick_settings_systemui_restart_label">Restart SystemUI</string>
+    <!-- The text for the button in the notification window-shade that clears
+         all of the currently visible notifications. [CHAR LIMIT=10]-->
+    <string name="clear_recents">Close all recent</string>
 
 </resources>
