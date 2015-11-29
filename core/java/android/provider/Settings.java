@@ -3662,6 +3662,12 @@ public final class Settings {
         public static final String SYSTEMUI_RECENTS_MEM_DISPLAY = "systemui_recents_mem_display";
 
         /**
+         * Whether to display recents in full screen
+         * @hide
+         */
+        public static final String RECENTS_FULL_SCREEN = "recents_full_screen";
+
+        /**
          * Whether to enable status and navigation bar color in battery saver mode.
          *
          * @hide
